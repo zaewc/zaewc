@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/react native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=20232a" />  <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />  <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=976520" alt="GitHub Streak Stats" />
-<img src="https://github-readme-stats.vercel.app/api?username=976520" alt="GitHub Stats" />
+
 <!--<br><br><br><br>
 ![image](https://github.com/976520/976520/assets/123460320/2d350440-c733-4996-b038-fca2fc8d7335)
 <br><br><br><br>
