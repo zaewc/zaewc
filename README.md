@@ -1,10 +1,24 @@
-<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000000" /> <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+## ✏️ Learning 
+  
+   <a href="https://skillicons.dev">
+       <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nestjs,django,docker" />
+   </a>
+   
+<br/>
+<br/>
 
-<img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=20232a" /> <img src="https://img.shields.io/badge/react native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=20232a" />     <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/nest.js-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />  <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" /> 
----
+## 🚀 Contributions
 
+-	typescript-eslint | [fix(eslint-plugin): [no-floating-promises] allowForKnownSafeCalls now supports function names (fixes #11423)](https://github.com/typescript-eslint/typescript-eslint/pull/11430) ￼
+-	TanStack Query | [fix(eslint-plugin-query): declare typescript as optional peer dependency](https://github.com/TanStack/query/pull/10007)￼  ￼
+-	fast_float | [Add more boundary test cases for double and float parsing￼  ](https://github.com/fastfloat/fast_float/pull/366)￼
+-	NestJS | [test(sample-11): add unit and e2e tests for swagger](https://github.com/nestjs/nest/pull/16410)￼  ￼
+-	NestJS | [test(sample-28): add unit and e2e tests for sse](https://github.com/nestjs/nest/pull/16409)￼  ￼
+-	NestJS | [test(sample-20): add e2e and unit tests for caching functionality ](https://github.com/nestjs/nest/pull/16406) ￼
 
+<br/>
 
+## 📊 Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaewc" alt="GitHub Streak Stats" />
 
 
