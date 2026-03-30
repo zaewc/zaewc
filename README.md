@@ -1,3 +1,8 @@
+![image](https://github.com/zaewc/zaewc/assets/123460320/2d350440-c733-4996-b038-fca2fc8d7335)
+
+<br/>
+<br/>
+
 ## ✏️ Learning 
   
    <a href="https://skillicons.dev">
@@ -21,9 +26,8 @@
 ## 📊 Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaewc" alt="GitHub Streak Stats" />
 
-
 <!--<br><br><br><br>
-![image](https://github.com/zaewc/zaewc/assets/123460320/2d350440-c733-4996-b038-fca2fc8d7335)
+
 <br><br><br><br>
 <div align="center">
 <img src="C:\Users\user\Downloads\image.png">
@@ -47,7 +51,6 @@
 
 **📊 Stats** 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaewc&layout=compact&theme=github_dark_dimmed&langs_count=10)
 
 <br><br><br><br>
 **🔗 Contact**
