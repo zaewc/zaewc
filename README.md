@@ -24,7 +24,20 @@
 <br/>
 
 ## 📊 Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zaewc" alt="GitHub Streak Stats" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=zaewc&theme=dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com?user=zaewc&theme=default"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=zaewc&theme=default"
+    alt="GitHub Streak Stats"
+  />
+</picture>
 
 <!--<br><br><br><br>
 
