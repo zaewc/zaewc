@@ -1,4 +1,4 @@
-![image](https://github.com/zaewc/zaewc/assets/123460320/2d350440-c733-4996-b038-fca2fc8d7335)
+<!-- ![image](https://github.com/zaewc/zaewc/assets/123460320/2d350440-c733-4996-b038-fca2fc8d7335) -->
 
 <br/>
 <br/>
