@@ -36,6 +36,21 @@
   />
 </picture>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zaewc&layout=compact&langs_count=10&theme=github_dark&hide_border=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zaewc&layout=compact&langs_count=10&theme=default&hide_border=true"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaewc&layout=compact&langs_count=10&theme=default&hide_border=true"
+    alt="Top Languages"
+  />
+</picture>
+
 <br/>
 <br/>
 
