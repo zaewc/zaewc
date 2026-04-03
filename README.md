@@ -17,6 +17,7 @@
 -	NestJS | [test(sample-11): add unit and e2e tests for swagger](https://github.com/nestjs/nest/pull/16410)￼  ￼
 -	NestJS | [test(sample-28): add unit and e2e tests for sse](https://github.com/nestjs/nest/pull/16409)￼  ￼
 -	NestJS | [test(sample-20): add e2e and unit tests for caching functionality ](https://github.com/nestjs/nest/pull/16406) ￼
+- es-toolkit | [fix(keyBy): export keyBy from es-toolkit/map](https://github.com/toss/es-toolkit/pull/1650#event-24170343046)
 
 <br/>
 
