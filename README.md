@@ -2,11 +2,12 @@
 ## ✏️ Learning
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nextjs,react,nuxtjs,vue,svelte,astro,django,flask,fastapi,nestjs,git,vercel,docker,githubactions&perline=6" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nextjs,react,nuxtjs,vue,svelte,astro,django,flask,fastapi,nestjs,git,vercel,docker,githubactions&perline=7" />
 </a>
 
 <br/>
 <br/>
+
 ## 🚀 Contributions
 
 -	typescript-eslint | [fix(eslint-plugin): [no-floating-promises] allowForKnownSafeCalls now supports function names (fixes #11423)](https://github.com/typescript-eslint/typescript-eslint/pull/11430) ￼
