@@ -12,14 +12,14 @@
 
 ## 🚀 Contributions
 
--	typescript-eslint | [fix(eslint-plugin): [no-floating-promises] allowForKnownSafeCalls now supports function names (fixes #11423)](https://github.com/typescript-eslint/typescript-eslint/pull/11430) ￼
--	TanStack Query | [fix(eslint-plugin-query): declare typescript as optional peer dependency](https://github.com/TanStack/query/pull/10007)￼  ￼
--	fast_float | [Add more boundary test cases for double and float parsing￼  ](https://github.com/fastfloat/fast_float/pull/366)￼
--	NestJS | [test(sample-11): add unit and e2e tests for swagger](https://github.com/nestjs/nest/pull/16410)￼  ￼
--	NestJS | [test(sample-28): add unit and e2e tests for sse](https://github.com/nestjs/nest/pull/16409)￼  ￼
--	NestJS | [test(sample-20): add e2e and unit tests for caching functionality ](https://github.com/nestjs/nest/pull/16406) ￼
-- es-toolkit | [fix(keyBy): export keyBy from es-toolkit/map](https://github.com/toss/es-toolkit/pull/1650#event-24170343046)
-- typescript-eslint | [fix(eslint-plugin): [no-unnecessary-condition] use assignability checks in checkTypePredicates](https://github.com/typescript-eslint/typescript-eslint/pull/12147)
+-	`2025-07-28` typescript-eslint | [fix(eslint-plugin): [no-floating-promises] allowForKnownSafeCalls now supports function names (fixes #11423)](https://github.com/typescript-eslint/typescript-eslint/pull/11430) ￼
+-	`2025-12-31` TanStack Query | [fix(eslint-plugin-query): declare typescript as optional peer dependency](https://github.com/TanStack/query/pull/10007)￼  ￼
+-	`2026-02-05` fast_float | [Add more boundary test cases for double and float parsing￼  ](https://github.com/fastfloat/fast_float/pull/366)￼
+-	`2026-02-21` NestJS | [test(sample-11): add unit and e2e tests for swagger](https://github.com/nestjs/nest/pull/16410)￼  ￼
+-	`2026-02-21` NestJS | [test(sample-28): add unit and e2e tests for sse](https://github.com/nestjs/nest/pull/16409)￼  ￼
+-	`2026-02-21` NestJS | [test(sample-20): add e2e and unit tests for caching functionality ](https://github.com/nestjs/nest/pull/16406) ￼
+- `2026-03-17` es-toolkit | [fix(keyBy): export keyBy from es-toolkit/map](https://github.com/toss/es-toolkit/pull/1650#event-24170343046)
+- `2026-03-20` typescript-eslint | [fix(eslint-plugin): [no-unnecessary-condition] use assignability checks in checkTypePredicates](https://github.com/typescript-eslint/typescript-eslint/pull/12147)
 
 <br/>
 
