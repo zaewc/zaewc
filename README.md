@@ -1,14 +1,12 @@
 <!-- ![image](https://github.com/zaewc/zaewc/assets/123460320/2d350440-c733-4996-b038-fca2fc8d7335) -->
+## ✏️ Learning
 
-## ✏️ Learning 
-  
-   <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nestjs,django,docker" />
-   </a>
-   
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nextjs,react,nuxtjs,vue,svelte,astro,django,flask,fastapi,nestjs,git,vercel,docker,githubactions&perline=6" />
+</a>
+
 <br/>
 <br/>
-
 ## 🚀 Contributions
 
 -	typescript-eslint | [fix(eslint-plugin): [no-floating-promises] allowForKnownSafeCalls now supports function names (fixes #11423)](https://github.com/typescript-eslint/typescript-eslint/pull/11430) ￼
