@@ -24,35 +24,9 @@
 <br/>
 
 ## 📊 Stats
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=zaewc&theme=dark"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com?user=zaewc&theme=default"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=zaewc&theme=default"
-    alt="GitHub Streak Stats"
-  />
-</picture>
-</br>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zaewc&layout=compact&langs_count=10&theme=github_dark&hide_border=true"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zaewc&layout=compact&langs_count=10&theme=default&hide_border=true"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaewc&layout=compact&langs_count=10&theme=default&hide_border=true"
-    alt="Top Languages"
-  />
-</picture>
+
+[![contrail](http://ssh.gsmsv.site:25140/api/users/zaewc/card.svg)](http://ssh.gsmsv.site:25140/?user=zaewc)
+
 
 <br/>
 <br/>
