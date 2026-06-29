@@ -20,6 +20,7 @@
 -	`26-02-21` **NestJS** | [test(sample-20): add e2e and unit tests for caching functionality ](https://github.com/nestjs/nest/pull/16406)
 - `26-03-17` **es-toolkit** | [fix(keyBy): export keyBy from es-toolkit/map](https://github.com/toss/es-toolkit/pull/1650#event-24170343046)
 - `26-03-20` **typescript-eslint** | [fix(eslint-plugin): [no-unnecessary-condition] use assignability checks in checkTypePredicates](https://github.com/typescript-eslint/typescript-eslint/pull/12147)
+- `26-06-19` **typescript-eslint** | [chore(typescript-eslint): add rule-performance agent skill](https://github.com/typescript-eslint/typescript-eslint/pull/12436)
 - `26-06-22` **typescript-eslint** | [fix(eslint-plugin): [no-unnecessary-type-assertion] parenthesize object literal at left edge of expression statement](https://github.com/typescript-eslint/typescript-eslint/pull/12443#pullrequestreview-4548783154)
 
 
