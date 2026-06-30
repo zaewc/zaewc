@@ -22,6 +22,7 @@
 - `26-03-20` **typescript-eslint** | [fix(eslint-plugin): [no-unnecessary-condition] use assignability checks in checkTypePredicates](https://github.com/typescript-eslint/typescript-eslint/pull/12147)
 - `26-06-19` **typescript-eslint** | [chore(typescript-eslint): add rule-performance agent skill](https://github.com/typescript-eslint/typescript-eslint/pull/12436)
 - `26-06-22` **typescript-eslint** | [fix(eslint-plugin): [no-unnecessary-type-assertion] parenthesize object literal at left edge of expression statement](https://github.com/typescript-eslint/typescript-eslint/pull/12443#pullrequestreview-4548783154)
+- `26-06-30` **typescript-eslint** | [fix(scope-manager): export ClassStaticBlockScope](https://github.com/typescript-eslint/typescript-eslint/pull/12460)
 
 
 <br/>
