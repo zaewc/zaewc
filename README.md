@@ -26,6 +26,7 @@
 - `26-07-01` **typescript-eslint** | [docs(eslint-plugin): [ban-ts-comment] fix wording of directive option descriptions](https://github.com/typescript-eslint/typescript-eslint/pull/12467)
 - `26-07-01` **typescript-eslint** | [docs(eslint-plugin): [no-base-to-string] correct documented default for ignoredTypeNames](https://github.com/typescript-eslint/typescript-eslint/pull/12469)
 - `26-07-05` **typescript-eslint** | [docs: [ban-ts-comment] clarify that @ts-expect-error is allowed by default](https://github.com/typescript-eslint/typescript-eslint/pull/12487)
+- `26-07-05` **typescript-eslint** | [docs: [no-base-to-string] clarify ignoredTypeNames description](https://github.com/typescript-eslint/typescript-eslint/pull/12488)
 
 
 
