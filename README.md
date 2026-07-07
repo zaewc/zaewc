@@ -28,6 +28,7 @@
 - `26-07-05` **typescript-eslint** | [docs: [ban-ts-comment] clarify that @ts-expect-error is allowed by default](https://github.com/typescript-eslint/typescript-eslint/pull/12487)
 - `26-07-05` **typescript-eslint** | [docs: [no-base-to-string] clarify ignoredTypeNames description](https://github.com/typescript-eslint/typescript-eslint/pull/12488)
 - `26-07-06` **typescript-eslint** | [fix(eslint-plugin): [no-base-to-string] don't flag a shadowed String() call](https://github.com/typescript-eslint/typescript-eslint/pull/12492)
+- `26-07-07` **typescript-eslint** | [fix(eslint-plugin): [no-loop-func] deprecate in favor of the base rule](https://github.com/typescript-eslint/typescript-eslint/pull/12500)
 
 
 
