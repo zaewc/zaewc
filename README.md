@@ -22,6 +22,7 @@
 - `26-03-20` **typescript-eslint** | [fix(eslint-plugin): [no-unnecessary-condition] use assignability checks in checkTypePredicates](https://github.com/typescript-eslint/typescript-eslint/pull/12147)
 - `26-06-19` **typescript-eslint** | [chore(typescript-eslint): add rule-performance agent skill](https://github.com/typescript-eslint/typescript-eslint/pull/12436)
 - `26-06-22` **typescript-eslint** | [fix(eslint-plugin): [no-unnecessary-type-assertion] parenthesize object literal at left edge of expression statement](https://github.com/typescript-eslint/typescript-eslint/pull/12443#pullrequestreview-4548783154)
+- `26-06-23` **typescript-eslint** |[fix(eslint-plugin): [unbound-method] report unbound methods accessed via member expression on union types](https://github.com/typescript-eslint/typescript-eslint/pull/12448)
 - `26-06-30` **typescript-eslint** | [fix(scope-manager): export ClassStaticBlockScope](https://github.com/typescript-eslint/typescript-eslint/pull/12460)
 - `26-07-01` **typescript-eslint** | [docs(eslint-plugin): [ban-ts-comment] fix wording of directive option descriptions](https://github.com/typescript-eslint/typescript-eslint/pull/12467)
 - `26-07-01` **typescript-eslint** | [docs(eslint-plugin): [no-base-to-string] correct documented default for ignoredTypeNames](https://github.com/typescript-eslint/typescript-eslint/pull/12469)
