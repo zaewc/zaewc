@@ -40,18 +40,11 @@
 
 ## 📊 Stats
 
-[![contrail](http://ssh.gsmsv.site:25140/api/users/zaewc/card.svg)](http://ssh.gsmsv.site:25140/?user=zaewc)
-
-<p align="center">
-  <a href="https://gitfut.com/zaewc?country=KR">
-    <img
-      src="https://gitfut.com/zaewc.png?country=KR"
-      width="200"
-      alt="My GitFut card"
-    />
-  </a>
-</p>
-
+[![contrail](http://ssh.gsmsv.site:25140/api/users/zaewc/card.svg)](http://ssh.gsmsv.site:25140/?user=zaewc) <img
+  src="https://gitfut.com/zaewc.png?country=KR"
+  width="200"
+  alt="My GitFut card"
+/>
 <br/>
 <br/>
 
