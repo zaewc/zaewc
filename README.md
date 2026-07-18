@@ -12,28 +12,51 @@
 
 ## 🚀 Contributions
 
--	`25-07-28` **typescript-eslint** | [fix(eslint-plugin): [no-floating-promises] allowForKnownSafeCalls now supports function names (fixes #11423)](https://github.com/typescript-eslint/typescript-eslint/pull/11430)
--	`25-12-31` **TanStack Query** | [fix(eslint-plugin-query): declare typescript as optional peer dependency](https://github.com/TanStack/query/pull/10007)
--	`26-02-05` **fast_float** | [Add more boundary test cases for double and float parsing￼  ](https://github.com/fastfloat/fast_float/pull/366)
--	`26-02-21` **NestJS** | [test(sample-11): add unit and e2e tests for swagger](https://github.com/nestjs/nest/pull/16410)
--	`26-02-21` **NestJS** | [test(sample-28): add unit and e2e tests for sse](https://github.com/nestjs/nest/pull/16409)
--	`26-02-21` **NestJS** | [test(sample-20): add e2e and unit tests for caching functionality ](https://github.com/nestjs/nest/pull/16406)
-- `26-03-17` **es-toolkit** | [fix(keyBy): export keyBy from es-toolkit/map](https://github.com/toss/es-toolkit/pull/1650#event-24170343046)
-- `26-03-20` **typescript-eslint** | [fix(eslint-plugin): [no-unnecessary-condition] use assignability checks in checkTypePredicates](https://github.com/typescript-eslint/typescript-eslint/pull/12147)
-- `26-06-19` **typescript-eslint** | [chore(typescript-eslint): add rule-performance agent skill](https://github.com/typescript-eslint/typescript-eslint/pull/12436)
-- `26-06-22` **typescript-eslint** | [fix(eslint-plugin): [no-unnecessary-type-assertion] parenthesize object literal at left edge of expression statement](https://github.com/typescript-eslint/typescript-eslint/pull/12443#pullrequestreview-4548783154)
-- `26-06-23` **typescript-eslint** |[fix(eslint-plugin): [unbound-method] report unbound methods accessed via member expression on union types](https://github.com/typescript-eslint/typescript-eslint/pull/12448)
-- `26-06-30` **typescript-eslint** | [fix(scope-manager): export ClassStaticBlockScope](https://github.com/typescript-eslint/typescript-eslint/pull/12460)
-- `26-06-30` **typescript-eslint** | [feat(parser): add onUnsupportedTypeScriptVersion option to error on unsupported TypeScript versions](https://github.com/typescript-eslint/typescript-eslint/pull/12465)
-- `26-07-01` **typescript-eslint** | [docs(eslint-plugin): [ban-ts-comment] fix wording of directive option descriptions](https://github.com/typescript-eslint/typescript-eslint/pull/12467)
-- `26-07-01` **typescript-eslint** | [docs(eslint-plugin): [no-base-to-string] correct documented default for ignoredTypeNames](https://github.com/typescript-eslint/typescript-eslint/pull/12469)
-- `26-07-05` **typescript-eslint** | [docs: [ban-ts-comment] clarify that @ts-expect-error is allowed by default](https://github.com/typescript-eslint/typescript-eslint/pull/12487)
-- `26-07-05` **typescript-eslint** | [docs: [no-base-to-string] clarify ignoredTypeNames description](https://github.com/typescript-eslint/typescript-eslint/pull/12488)
-- `26-07-06` **typescript-eslint** | [fix(eslint-plugin): [no-base-to-string] don't flag a shadowed String() call](https://github.com/typescript-eslint/typescript-eslint/pull/12492)
-- `26-07-07` **typescript-eslint** | [fix(eslint-plugin): [no-loop-func] deprecate in favor of the base rule](https://github.com/typescript-eslint/typescript-eslint/pull/12500)
-- `26-07-08` **typescript-eslint** | [fix(eslint-plugin): [require-array-sort-compare] handle constrained arrays](https://github.com/typescript-eslint/typescript-eslint/pull/12512)
+## Contributions
 
+### typescript-eslint
 
+- `25-07-28` **PR** | [fix(eslint-plugin): [no-floating-promises] allowForKnownSafeCalls now supports function names](https://github.com/typescript-eslint/typescript-eslint/pull/11430)
+- `26-03-20` **PR** | [fix(eslint-plugin): [no-unnecessary-condition] use assignability checks in checkTypePredicates](https://github.com/typescript-eslint/typescript-eslint/pull/12147)
+- `26-06-19` **PR** | [chore(typescript-eslint): add rule-performance agent skill](https://github.com/typescript-eslint/typescript-eslint/pull/12436)
+- `26-06-22` **PR** | [fix(eslint-plugin): [no-unnecessary-type-assertion] parenthesize object literal at left edge of expression statement](https://github.com/typescript-eslint/typescript-eslint/pull/12443)
+- `26-06-23` **PR** | [fix(eslint-plugin): [unbound-method] report unbound methods accessed via member expression on union types](https://github.com/typescript-eslint/typescript-eslint/pull/12448)
+- `26-06-30` **Issue** | [ClassStaticBlockScope is not exported from @typescript-eslint/scope-manager](https://github.com/typescript-eslint/typescript-eslint/issues/12459)
+- `26-06-30` **PR** | [fix(scope-manager): export ClassStaticBlockScope](https://github.com/typescript-eslint/typescript-eslint/pull/12460)
+- `26-06-30` **Issue** | [[no-base-to-string] documented default for ignoredTypeNames is incorrect](https://github.com/typescript-eslint/typescript-eslint/issues/12463)
+- `26-06-30` **Issue** | [[ban-ts-comment] ts-expect-error option description is inconsistent](https://github.com/typescript-eslint/typescript-eslint/issues/12464)
+- `26-06-30` **PR** | [feat(parser): add onUnsupportedTypeScriptVersion option to error on unsupported TypeScript versions](https://github.com/typescript-eslint/typescript-eslint/pull/12465)
+- `26-07-01` **PR** | [docs(eslint-plugin): [ban-ts-comment] fix wording of directive option descriptions](https://github.com/typescript-eslint/typescript-eslint/pull/12467)
+- `26-07-01` **PR** | [docs(eslint-plugin): [no-base-to-string] correct documented default for ignoredTypeNames](https://github.com/typescript-eslint/typescript-eslint/pull/12469)
+- `26-07-02` **Issue** | [ban-ts-comment says only @ts-check is allowed by default, but @ts-expect-error is too](https://github.com/typescript-eslint/typescript-eslint/issues/12480)
+- `26-07-02` **Issue** | [[no-base-to-string] clarify ignoredTypeNames description](https://github.com/typescript-eslint/typescript-eslint/issues/12481)
+- `26-07-05` **PR** | [docs: [ban-ts-comment] clarify that @ts-expect-error is allowed by default](https://github.com/typescript-eslint/typescript-eslint/pull/12487)
+- `26-07-05` **PR** | [docs: [no-base-to-string] clarify ignoredTypeNames description](https://github.com/typescript-eslint/typescript-eslint/pull/12488)
+- `26-07-05` **Issue** | [[no-base-to-string] false positive when String is shadowed in an outer scope](https://github.com/typescript-eslint/typescript-eslint/issues/12490)
+- `26-07-06` **PR** | [fix(eslint-plugin): [no-base-to-string] don't flag a shadowed String() call](https://github.com/typescript-eslint/typescript-eslint/pull/12492)
+- `26-07-06` **Issue** | [[no-loop-func] using / await using declarations are falsely flagged inside loops](https://github.com/typescript-eslint/typescript-eslint/issues/12496)
+- `26-07-07` **PR** | [fix(eslint-plugin): [no-loop-func] deprecate in favor of the base rule](https://github.com/typescript-eslint/typescript-eslint/pull/12500)
+- `26-07-08` **Issue** | [[require-array-sort-compare] false positive on a type parameter constrained to a string array](https://github.com/typescript-eslint/typescript-eslint/issues/12511)
+- `26-07-08` **PR** | [fix(eslint-plugin): [require-array-sort-compare] handle constrained arrays](https://github.com/typescript-eslint/typescript-eslint/pull/12512)
+
+### NestJS
+
+- `26-02-21` **PR** | [test(sample-20): add e2e and unit tests for caching functionality](https://github.com/nestjs/nest/pull/16406)
+- `26-02-21` **PR** | [test(sample-28): add unit and e2e tests for SSE](https://github.com/nestjs/nest/pull/16409)
+- `26-02-21` **PR** | [test(sample-11): add unit and e2e tests for Swagger](https://github.com/nestjs/nest/pull/16410)
+- `26-07-18` **Issue** | [ServerRedis passes swapped 'pub'/'sub' client type to event listeners registered before listen()](https://github.com/nestjs/nest/issues/17330)
+
+### TanStack Query
+
+- `25-12-31` **PR** | [fix(eslint-plugin-query): declare TypeScript as an optional peer dependency](https://github.com/TanStack/query/pull/10007)
+
+### fast_float
+
+- `26-02-05` **PR** | [Add more boundary test cases for double and float parsing](https://github.com/fastfloat/fast_float/pull/366)
+
+### es-toolkit
+
+- `26-03-17` **PR** | [fix(keyBy): export keyBy from es-toolkit/map](https://github.com/toss/es-toolkit/pull/1650)
 
 
 <br/>
