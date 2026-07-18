@@ -36,6 +36,7 @@
 - `26-07-07` **PR** | [feat(eslint-plugin): [no-loop-func] support `using` / `await using` declarations and deprecate the rule](https://github.com/typescript-eslint/typescript-eslint/pull/12500)
 - `26-07-08` **Issue** | [[require-array-sort-compare] false positive on a type parameter constrained to a string array](https://github.com/typescript-eslint/typescript-eslint/issues/12511)
 - `26-07-08` **PR** | [fix(eslint-plugin): [require-array-sort-compare] handle constrained arrays](https://github.com/typescript-eslint/typescript-eslint/pull/12512)
+- `26-07-19` **Issue** | [[no-unnecessary-parameter-property-assignment] false positive on computed access with a variable key](https://github.com/typescript-eslint/typescript-eslint/issues/12566)
 
 ### NestJS
 
