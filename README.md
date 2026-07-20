@@ -45,6 +45,8 @@
 - `26-02-21` **PR** | [test(sample-28): add unit and e2e tests for sse](https://github.com/nestjs/nest/pull/16409)
 - `26-02-21` **PR** | [test(sample-11): add unit and e2e tests for swagger](https://github.com/nestjs/nest/pull/16410)
 - `26-07-17` **Issue** | [ServerRedis passes swapped 'pub'/'sub' client type to event listeners registered before listen()](https://github.com/nestjs/nest/issues/17330)
+- `26-07-18` **PR** | [fix(microservices): correct pub/sub client type in redis listeners](https://github.com/nestjs/nest/pull/17331)
+- `26-07-18` **Issue** | [MiddlewareBuilder skips overlapping routes because it reuses stateful global-flag regexes](https://github.com/nestjs/nest/issues/17334)
 
 ### TanStack Query
 
