@@ -34,10 +34,14 @@
 - `26-07-05` **PR** | [fix(eslint-plugin): [no-base-to-string] don't flag a shadowed String() call](https://github.com/typescript-eslint/typescript-eslint/pull/12492)
 - `26-07-06` **Issue** | [[no-loop-func] `using` / `await using` declarations are falsely flagged inside loops](https://github.com/typescript-eslint/typescript-eslint/issues/12496)
 - `26-07-07` **PR** | [feat(eslint-plugin): [no-loop-func] support `using` / `await using` declarations and deprecate the rule](https://github.com/typescript-eslint/typescript-eslint/pull/12500)
+- `26-07-07` **Issue** | [[unified-signatures] error message contains the same type twice when it appears in more than one signature](https://github.com/typescript-eslint/typescript-eslint/issues/12504)
 - `26-07-08` **Issue** | [[require-array-sort-compare] false positive on a type parameter constrained to a string array](https://github.com/typescript-eslint/typescript-eslint/issues/12511)
 - `26-07-08` **PR** | [fix(eslint-plugin): [require-array-sort-compare] handle constrained arrays](https://github.com/typescript-eslint/typescript-eslint/pull/12512)
+- `26-07-09` **Issue** | [[no-unnecessary-type-conversion] a locally-redefined String/Number/Boolean/BigInt is treated as the global builtin](https://github.com/typescript-eslint/typescript-eslint/issues/12522)
 - `26-07-19` **Issue** | [[no-unnecessary-parameter-property-assignment] false positive on computed access with a variable key](https://github.com/typescript-eslint/typescript-eslint/issues/12566)
 - `26-07-19` **PR** | [fix(eslint-plugin): [no-unnecessary-parameter-property-assignment] don't flag computed assignments with a variable key](https://github.com/typescript-eslint/typescript-eslint/pull/12568)
+- `26-07-22` **PR** | [fix(eslint-plugin): [no-unnecessary-type-conversion] ignore shadowed built-ins](https://github.com/typescript-eslint/typescript-eslint/pull/12590)
+- `26-07-22` **PR** | [fix(eslint-plugin): [prefer-nullish-coalescing] handle shadowed Boolean calls](https://github.com/typescript-eslint/typescript-eslint/pull/12591)
 
 ### NestJS
 
