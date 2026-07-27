@@ -42,6 +42,8 @@
 - `26-07-19` **PR** | [fix(eslint-plugin): [no-unnecessary-parameter-property-assignment] don't flag computed assignments with a variable key](https://github.com/typescript-eslint/typescript-eslint/pull/12568)
 - `26-07-22` **PR** | [fix(eslint-plugin): [no-unnecessary-type-conversion] ignore shadowed built-ins](https://github.com/typescript-eslint/typescript-eslint/pull/12590)
 - `26-07-22` **PR** | [fix(eslint-plugin): [prefer-nullish-coalescing] handle shadowed Boolean calls](https://github.com/typescript-eslint/typescript-eslint/pull/12591)
+- `26-07-24` **PR** | [fix(eslint-plugin): [no-useless-default-assignment] don't report defaults used by other overloads](https://github.com/typescript-eslint/typescript-eslint/pull/12607)
+
 
 ### NestJS
 
