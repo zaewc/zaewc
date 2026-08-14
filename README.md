@@ -2,9 +2,20 @@
 ## ✏️ Learning
 
 <a href="https://skills.syvixor.com">
+  <!-- Languages -->
   <img src="https://skills.syvixor.com/api/icons?i=javascript,typescript,python" />
   <br/>
-  <img src="https://skills.syvixor.com/api/icons?i=nextjs,react,expo,nuxt,vue,svelte,astro,django,flask,fastapi,nestjs,vercel,docker,githubactions&perline=7" />
+
+  <!-- Frontend -->
+  <img src="https://skills.syvixor.com/api/icons?i=nextjs,react,expo,nuxt,vue,svelte,astro&perline=7" />
+  <br/>
+
+  <!-- Backend -->
+  <img src="https://skills.syvixor.com/api/icons?i=django,flask,fastapi,nestjs&perline=7" />
+  <br/>
+
+  <!-- DevOps -->
+  <img src="https://skills.syvixor.com/api/icons?i=vercel,docker,githubactions&perline=7" />
 </a>
 
 <br/>
