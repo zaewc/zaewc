@@ -100,7 +100,7 @@
   
 </details>
 
-<br/>
+<!-- <br/>
 
 ## 📊 Stats
 
@@ -109,7 +109,7 @@
   width="200"
   alt="My GitFut card"
 />
-<br/>
+<br/> -->
 <br/>
 
 ## ☕ [Buy me coffee](http://aq.gy/f/9LOJx)
